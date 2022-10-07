@@ -19,7 +19,7 @@ Documentation
 
 Product Versions
 ----------------
-* [KIT-21224](https://www.sparkfun.com/products/21224) 
+* [KIT-21224](https://www.sparkfun.com/products/21224) - Initial Release
 
 License Information
 -------------------
